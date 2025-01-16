@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction
 Build a model to predict whether a person has heart disease based on medical features such as age, sex, cholesterol levels, and blood pressure
 
-##Project Overview
+## Project Overview
 This project aims to predict the likelihood of a person having heart disease based on their medical features. Using machine learning techniques, we analyze the dataset and train a model to classify individuals into two categories:
 
 0: No heart disease
