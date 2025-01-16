@@ -112,7 +112,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/JayaniMalsha/Heart-Disease-Prediction/tree/main
+git clone https://github.com/JayaniMalsha/Heart-Disease-Prediction.git
 cd heart-disease-prediction
 Download the dataset:
 
